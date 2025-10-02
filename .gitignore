@@ -1,0 +1,14 @@
+# Ignorar la carpeta del entorno virtual
+venv/
+
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Otros archivos que no quieres subir (ej. secretos, logs)
+*.log
+.env
